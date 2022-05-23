@@ -1,0 +1,2 @@
+let currentID = 0; 
+
