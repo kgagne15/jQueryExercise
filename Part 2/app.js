@@ -1,9 +1,9 @@
 /*
 *build a form with 2 inputs for title and rating along with button to submit  -- done
-*when form is submitted, capture values
-*append values to DOM
-*append button for each movie and rating
-*button should remove it's associated movie and rating
+*when form is submitted, capture values  -- done
+*append values to DOM  -- done
+*append button for each movie and rating  -- done
+*button should remove it's associated movie and rating  -- done
 *
 *used the solution for guidance
 */
